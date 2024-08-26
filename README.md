@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Savita Ganapati!
 
--I am a dynamic professional with a master's degree in Data Science and over 13 years of proven leadership in the software industry.
+-I am a dynamic professional with a master's degree in Data Science and over 14 years of proven leadership in the software industry.
 Beyond my technical prowess, I am passionate about blending the art and science of data. When I'm not shaping the future of data science, you'll find me indulging in my diverse interests.
 
 -🌍 Interests:
